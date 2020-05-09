@@ -2,8 +2,10 @@
 
 //Used the "Reader" class for faster input
 
-/* This problem simply counts the number of guesses to find the target value, so I basically 
-increased the "count" variable everytime the "mid" variable was divided by two. */
+/* 
+This problem simply counts the number of guesses to find the target value, so I basically 
+increased the "count" variable everytime the "mid" variable was divided by two. 
+*/
 
 //the question is added below the code
 
@@ -159,7 +161,8 @@ class Reader
 }
 
    
-/* Hasib, the famous programmer, uses a little game when he teaches Binary Search to his students. He requests them to guess a number between 1 to 100, and then he asks a few questions to them. After his students answer those questions, Hasib magically shouts the predicted number correctly!
+/* 
+Hasib, the famous programmer, uses a little game when he teaches Binary Search to his students. He requests them to guess a number between 1 to 100, and then he asks a few questions to them. After his students answer those questions, Hasib magically shouts the predicted number correctly!
 
 But how does he do it? What are those questions that makes him so sure about the predicted number? Well, here’s an example. Let’s assume that the predicted number is 22. So Hasib and his student will have a conversation similar to this:
 
